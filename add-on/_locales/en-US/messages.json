@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "DC Knowledge Manager",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Digital Cyborg Knowledge Manager Extension",
+    "description": "Description of the extension."
+  },
+  "buttonTitle": {
+    "message": "View KM  wiki",
+    "description": "Description shown on the toolbar when hovered."
+  }
+}
